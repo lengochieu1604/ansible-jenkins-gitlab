@@ -1,0 +1,2 @@
+linux ansible_host= ansible_connection=ssh ansible_user= ansible_ssh_pass=
+ansible_python_interpreter=/usr/bin/python
